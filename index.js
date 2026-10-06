@@ -1,3 +1,4 @@
+// Фінальна перевірка лабораторної роботи
 import { Command } from 'commander';
 import fs from 'fs';
 
