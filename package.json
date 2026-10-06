@@ -1,0 +1,24 @@
+{
+  "name": "lab3-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vasulkotyrko-design/lab3-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/vasulkotyrko-design/lab3-cli/issues"
+  },
+  "homepage": "https://github.com/vasulkotyrko-design/lab3-cli#readme",
+  "dependencies": {
+    "commander": "^15.0.0"
+  }
+}
