@@ -1,0 +1,23 @@
+{
+  "banks": [
+    {
+      "id": 1,
+      "name": "ПриватБанк",
+      "headquarters": "Київ",
+      "branches": [
+        { "branch_id": "101", "city": "Львів", "address": "вул. Личаківська, 8", "has_atm": true },
+        { "branch_id": "102", "city": "Львів", "address": "вул. Франка, 20", "has_atm": false },
+        { "branch_id": "103", "city": "Київ", "address": "вул. Хрещатик, 10", "has_atm": true }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Ощадбанк",
+      "headquarters": "Київ",
+      "branches": [
+        { "branch_id": "201", "city": "Київ", "address": "вул. Хрещатик, 22", "has_atm": true },
+        { "branch_id": "202", "city": "Львів", "address": "вул. Городоцька, 50", "has_atm": true }
+      ]
+    }
+  ]
+}
